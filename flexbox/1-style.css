@@ -382,6 +382,10 @@
   
   /* Card WORK
       ============================= */
+    
+  .section-works {
+
+  }
   
   .card-work .card-outer {
     position: relative;
@@ -447,6 +451,10 @@
   
   /* Card SERVICES
       ============================= */
+
+  .section-services {
+
+  }
   
   .card-services .card-title {
     margin: 0;
@@ -488,6 +496,10 @@
   .card-testimonial .card-quote {
     position: relative;
   }
+  .section-latest-news {
+    
+  }
+
   
   .card-testimonial .card-quote::before {
     content: '\201C';
@@ -497,4 +509,11 @@
     color: #efeded;
     font-size: 10rem;
     z-index: -1;
+  }
+
+  .section-about-us{
+
+  }
+  .section-contact {
+    
   }
