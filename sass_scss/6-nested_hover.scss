@@ -1,6 +1,8 @@
-/* nested declarations*/
+/* Nested hover */
+
 button {
     color: #FF0000;
+
     &:hover {
         color: #00FF00;
     }
